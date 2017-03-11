@@ -1,5 +1,8 @@
 _repo: The-Scarlet-Pimpernel_60
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Orczy, Emmuska Orczy, Baroness
@@ -28,6 +31,8 @@ description: "The Scarlet Pimpernel is the first novel in a series of historical
   \ New Theatre in London's West End on 5 January 1905, the play became a favourite\
   \ of British audiences, eventually playing more than 2,000 performances and becoming\
   \ one of the most popular shows staged in Britain.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60#The-Scarlet-Pimpernel
 gutenberg_bookshelf:
 - Best Books Ever Listings
 - Adventure
